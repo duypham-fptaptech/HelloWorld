@@ -1,0 +1,22 @@
+﻿<Page
+    x:Class="UWP_029.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:UWP_029"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Page.Resources>
+        <SolidColorBrush x:Key="AccentBrush" Color="{ThemeResource SystemAccentColor}"/>
+    </Page.Resources>
+
+    <Grid>
+        <StackPanel>
+            <Rectangle Width="100" Height="100" Fill="{ThemeResource SystemAccentColor}"/>
+            <Rectangle Width="50" Height="50" Fill="{ThemeResource SystemColorWindowColor}"/>
+            <TextBlock Text="My App Title" Style="{StaticResource CaptionTextBlockStyle}"/>
+        </StackPanel>
+    </Grid>
+</Page>
+
