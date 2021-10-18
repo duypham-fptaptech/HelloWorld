@@ -18,13 +18,14 @@ namespace Assigment2.Model
             Name = name;
             Category = category;
             AudioFile = String.Format("/Assets/Audio/{0}/{1}.mp3", category, name);
-            ImageFile = String.Format("/Assets/Images/{0}/{1}.jpg", category, name);
+            ImageFile = String.Format("/Assets/Images/{0}/{1}.png", category, name);
         }
     }
 
     public enum SoundCategory
     {
-        Vibrant,
+        Happy,
         Sad,
+        News
     }
 }

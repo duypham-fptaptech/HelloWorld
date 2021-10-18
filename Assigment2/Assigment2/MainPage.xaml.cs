@@ -37,8 +37,8 @@ namespace Assigment2
             SoundManager.GetAllSounds(Sounds);
 
             MenuItems = new List<MenuItem>();
-            MenuItems.Add(new MenuItem { IconFile = "Assets/Icons/Sad.png", Category = SoundCategory.Vibrant });
-            MenuItems.Add(new MenuItem { IconFile = "Assets/Icons/Vibrant.png", Category = SoundCategory.Sad });
+            MenuItems.Add(new MenuItem { IconFile = "Assets/Icons/Happy.png", Category = SoundCategory.Happy });
+            MenuItems.Add(new MenuItem { IconFile = "Assets/Icons/Sad.png", Category = SoundCategory.Sad });
 
             BackButton.Visibility = Visibility.Collapsed;
         }
@@ -109,9 +109,9 @@ namespace Assigment2
                     var storageFile = items[0] as StorageFile;
                     var contentType = storageFile.ContentType;
 
-                    StorageFolder folder = ApplicationData.Current.LocalFolder;
+                    StorageFolder folder = ApplicationData.Current.LocalFolder;SS
 
-                    if (contentType == "audio/mp3" || contentType == "audio/mpeg")
+                    if (contentType == "audio/mp3" || contentType == "audio/png")
                     {
                         StorageFile newFile =
                             await storageFile.CopyAsync(

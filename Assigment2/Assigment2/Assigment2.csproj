@@ -133,22 +133,18 @@
     </AppxManifest>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Assets\Audio\Sad\CanDuyen.mp3" />
-    <Content Include="Assets\Audio\Sad\ChiAnhConYeu.mp3" />
-    <Content Include="Assets\Audio\Vibrant\AiNo1.mp3" />
-    <Content Include="Assets\Audio\Vibrant\CuoiThoi.mp3" />
+    <Content Include="Assets\Audio\Happy\thuongNhauToiBen.mp3" />
+    <Content Include="Assets\Audio\Happy\yeuLaCuoi.mp3" />
+    <Content Include="Assets\Audio\Sad\emLaConThuyenCoDon.mp3" />
+    <Content Include="Assets\Audio\Sad\thayLong.mp3" />
     <Content Include="Assets\Icons\Sad.png" />
-    <Content Include="Assets\Icons\Vibrant.png" />
-    <Content Include="Assets\Images\AiNo1.jpg" />
-    <Content Include="Assets\Images\CanDuyen.jpg" />
-    <Content Include="Assets\Images\ChiAnhConYeu.jpeg" />
-    <Content Include="Assets\Images\Sad\CanDuyen.jpg" />
-    <Content Include="Assets\Images\Sad\ChiAnhConYeu.jpg" />
-    <Content Include="Assets\Images\Sad\Sad.png" />
-    <Content Include="Assets\Images\Sad\Vibrant.jfif" />
-    <Content Include="Assets\Images\Sad\Vibrant.png" />
-    <Content Include="Assets\Images\Vibrant\AiNo1.jpg" />
-    <Content Include="Assets\Images\Vibrant\CuoiThoi.jpg" />
+    <Content Include="Assets\Icons\Happy.png" />
+    <Content Include="Assets\Images\Happy\thuongNhauToiBen.png" />
+    <Content Include="Assets\Images\Happy\yeuLaCuoi.png" />
+    <Content Include="Assets\Images\News\thuongNhauToiBen.png" />
+    <Content Include="Assets\Images\News\yeuLaCuoi.png" />
+    <Content Include="Assets\Images\Sad\emLaConThuyenCoDon.png" />
+    <Content Include="Assets\Images\Sad\thayLong.png" />
     <Content Include="Properties\Default.rd.xml" />
     <Content Include="Assets\LockScreenLogo.scale-200.png" />
     <Content Include="Assets\SplashScreen.scale-200.png" />
