@@ -36,11 +36,14 @@ namespace Assigment2.Model
         {
             var sounds = new List<Sound>();
 
-            sounds.Add(new Sound("AiNo1", SoundCategory.Vibrant));
-            sounds.Add(new Sound("CuoiThoi", SoundCategory.Vibrant));
+            sounds.Add(new Sound("thuongNhauToiBen", SoundCategory.Happy));
+            sounds.Add(new Sound("yeuLaCuoi", SoundCategory.Happy));
 
-            sounds.Add(new Sound("CanDuyen", SoundCategory.Sad));
-            sounds.Add(new Sound("ChiAnhConYeu", SoundCategory.Sad));
+            sounds.Add(new Sound("emLaConThuyenCoDon", SoundCategory.Sad));
+            sounds.Add(new Sound("thayLong", SoundCategory.Sad));
+
+            sounds.Add(new Sound("thuongNhauToiBen", SoundCategory.News));
+            sounds.Add(new Sound("yeuLaCuoi", SoundCategory.News));
 
             return sounds;
         }

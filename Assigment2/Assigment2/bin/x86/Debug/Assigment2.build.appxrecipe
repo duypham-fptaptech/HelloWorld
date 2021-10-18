@@ -34,29 +34,41 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\source\repos\Assigment2\Assigment2\Assets\Audio\Sad\CanDuyen.mp3">
-      <PackagePath>Assets\Audio\Sad\CanDuyen.mp3</PackagePath>
+    <AppxPackagedFile Include="C:\Users\hp\source\repos\Assigment2\Assigment2\Assets\Audio\Happy\thuongNhauToiBen.mp3">
+      <PackagePath>Assets\Audio\Happy\thuongNhauToiBen.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\source\repos\Assigment2\Assigment2\Assets\Audio\Sad\ChiAnhConYeu.mp3">
-      <PackagePath>Assets\Audio\Sad\ChiAnhConYeu.mp3</PackagePath>
+    <AppxPackagedFile Include="C:\Users\hp\source\repos\Assigment2\Assigment2\Assets\Audio\Happy\yeuLaCuoi.mp3">
+      <PackagePath>Assets\Audio\Happy\yeuLaCuoi.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\source\repos\Assigment2\Assigment2\Assets\Audio\Vibrant\AiNo1.mp3">
-      <PackagePath>Assets\Audio\Vibrant\AiNo1.mp3</PackagePath>
+    <AppxPackagedFile Include="C:\Users\hp\source\repos\Assigment2\Assigment2\Assets\Audio\Sad\emLaConThuyenCoDon.mp3">
+      <PackagePath>Assets\Audio\Sad\emLaConThuyenCoDon.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\source\repos\Assigment2\Assigment2\Assets\Audio\Vibrant\CuoiThoi.mp3">
-      <PackagePath>Assets\Audio\Vibrant\CuoiThoi.mp3</PackagePath>
+    <AppxPackagedFile Include="C:\Users\hp\source\repos\Assigment2\Assigment2\Assets\Audio\Sad\thayLong.mp3">
+      <PackagePath>Assets\Audio\Sad\thayLong.mp3</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\source\repos\Assigment2\Assigment2\Assets\Icons\Sad.png">
       <PackagePath>Assets\Icons\Sad.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\source\repos\Assigment2\Assigment2\Assets\Icons\Vibrant.png">
-      <PackagePath>Assets\Icons\Vibrant.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\hp\source\repos\Assigment2\Assigment2\Assets\Icons\Happy.png">
+      <PackagePath>Assets\Icons\Happy.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\source\repos\Assigment2\Assigment2\Assets\Images\Sad\Sad.png">
-      <PackagePath>Assets\Images\Sad\Sad.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\hp\source\repos\Assigment2\Assigment2\Assets\Images\Happy\thuongNhauToiBen.png">
+      <PackagePath>Assets\Images\Happy\thuongNhauToiBen.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\source\repos\Assigment2\Assigment2\Assets\Images\Sad\Vibrant.png">
-      <PackagePath>Assets\Images\Sad\Vibrant.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\hp\source\repos\Assigment2\Assigment2\Assets\Images\Happy\yeuLaCuoi.png">
+      <PackagePath>Assets\Images\Happy\yeuLaCuoi.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\source\repos\Assigment2\Assigment2\Assets\Images\News\thuongNhauToiBen.png">
+      <PackagePath>Assets\Images\News\thuongNhauToiBen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\source\repos\Assigment2\Assigment2\Assets\Images\News\yeuLaCuoi.png">
+      <PackagePath>Assets\Images\News\yeuLaCuoi.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\source\repos\Assigment2\Assigment2\Assets\Images\Sad\emLaConThuyenCoDon.png">
+      <PackagePath>Assets\Images\Sad\emLaConThuyenCoDon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\source\repos\Assigment2\Assigment2\Assets\Images\Sad\thayLong.png">
+      <PackagePath>Assets\Images\Sad\thayLong.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\source\repos\Assigment2\Assigment2\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
@@ -84,30 +96,6 @@
     <AppxPackagedFile Include="C:\Users\hp\source\repos\Assigment2\Assigment2\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\source\repos\Assigment2\Assigment2\Assets\Images\AiNo1.jpg">
-      <PackagePath>Assets\Images\AiNo1.jpg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\source\repos\Assigment2\Assigment2\Assets\Images\CanDuyen.jpg">
-      <PackagePath>Assets\Images\CanDuyen.jpg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\source\repos\Assigment2\Assigment2\Assets\Images\Sad\CanDuyen.jpg">
-      <PackagePath>Assets\Images\Sad\CanDuyen.jpg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\source\repos\Assigment2\Assigment2\Assets\Images\Sad\ChiAnhConYeu.jpg">
-      <PackagePath>Assets\Images\Sad\ChiAnhConYeu.jpg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\source\repos\Assigment2\Assigment2\Assets\Images\Vibrant\AiNo1.jpg">
-      <PackagePath>Assets\Images\Vibrant\AiNo1.jpg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\source\repos\Assigment2\Assigment2\Assets\Images\Vibrant\CuoiThoi.jpg">
-      <PackagePath>Assets\Images\Vibrant\CuoiThoi.jpg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\source\repos\Assigment2\Assigment2\Assets\Images\ChiAnhConYeu.jpeg">
-      <PackagePath>Assets\Images\ChiAnhConYeu.jpeg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\source\repos\Assigment2\Assigment2\Assets\Images\Sad\Vibrant.jfif">
-      <PackagePath>Assets\Images\Sad\Vibrant.jfif</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\source\repos\Assigment2\Assigment2\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
